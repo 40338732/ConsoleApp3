@@ -12,6 +12,7 @@ namespace ConsoleApp3
         {
             System.Diagnostics.Debug.WriteLine("Hello");
             System.Diagnostics.Debug.WriteLine("Hello2");
+            System.Diagnostics.Debug.WriteLine("Hello new branch");
         }
     }
 }
