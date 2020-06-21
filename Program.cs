@@ -11,6 +11,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             System.Diagnostics.Debug.WriteLine("Hello");
+            System.Diagnostics.Debug.WriteLine("Hello2");
         }
     }
 }
